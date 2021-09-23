@@ -194,12 +194,12 @@ footer .menu {
     }
     .service1{
         background-image: url("../images/people.png");
-        padding-right: 0.65rem !important;
+        padding-right: 0.375rem !important;
         padding-left: 0 !important;
         background-clip: content-box;
     }
     .service2{
-        padding-left: 0.656rem !important;
+        padding-left: 0.375rem !important;
         padding-right: 0 !important;
         background-clip: content-box;
         background-image: url("../images/Group 430.png ");
@@ -263,12 +263,12 @@ footer .menu {
         top:14%
     }
     .service5{
-        padding-right: 0.65rem;
+        padding-right: 0.375rem !important;
         padding-left: 0;
         background-clip: content-box;
     }
     .service6{
-        padding-left: 0.656rem;
+        padding-left: 0.375rem !important;
         padding-right: 0;
         background-clip: content-box;
     }

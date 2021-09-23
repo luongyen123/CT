@@ -247,6 +247,7 @@ footer .menu {
         font-size: 14px;
         font-family: 'Noto Sans', serif;
         line-height: 23px;
+        letter-spacing: 0.05rem;
     }
     .service4 a{
         margin-bottom: 2rem;
